@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --glass: rgba(255,255,255,0.06);
+  --neon: #00FFF0;
+}
+
+body {
+  background: linear-gradient(180deg,#030712 0%, #071226 100%);
+  color: #e6f7f1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.glass {
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.neon {
+  box-shadow: 0 0 8px rgba(0,255,240,0.12), 0 0 30px rgba(0,255,240,0.06);
+  border-color: rgba(0,255,240,0.18);
+}
+
+.map-svg path {
+  transition: fill 200ms ease;
+  cursor: pointer;
+}
+
+/* Improve contrast for native selects and their options */
+select {
+  color: #e6f7f1; /* light text */
+  background-color: transparent;
+}
+
+select option {
+  background-color: rgba(2,6,23,0.98); /* dark dropdown background */
+  color: #e6f7f1; /* ensure options are readable */
+}
+
+/* When an option is hovered or selected in some browsers */
+select option:hover,
+select option:checked {
+  background-color: rgba(0,255,240,0.06);
+  color: #e6f7f1;
+}

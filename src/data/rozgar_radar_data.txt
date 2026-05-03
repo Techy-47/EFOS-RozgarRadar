@@ -1,0 +1,460 @@
+====================================================================================================
+ROZGAR RADAR - SCRAPED DATA
+Generated: 2026-05-02 17:59:24
+====================================================================================================
+
+
+====================================================================================================
+DATA BATCH 1
+Timestamp: 2026-05-02T17:59:24.403777
+====================================================================================================
+
+
+CITY PROFILE: Kanpur, Uttar Pradesh
+--------------------------------------------------------------------------------
+District ID: DT_KAN
+Population: 7,880,895
+Literacy Rate: 78.17%
+Predicted Job Openings: 1,309
+Confidence Score: 88.4%
+Last Updated: 2026-05-02T17:59:24.403918
+
+JOB CATEGORIES:
+  /* Lines 23-27 omitted */
+
+LEADING INDICATORS:
+  /* Lines 29-34 omitted */
+
+MARKET PULSE:
+  /* Lines 36-39 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 41-47 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 49-52 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 77-294 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Bangalore, Karnataka
+--------------------------------------------------------------------------------
+District ID: DT_BAN
+Population: 4,863,415
+Literacy Rate: 75.23%
+Predicted Job Openings: 1,643
+Confidence Score: 91.5%
+Last Updated: 2026-05-02T17:59:24.405227
+
+JOB CATEGORIES:
+  /* Lines 308-312 omitted */
+
+LEADING INDICATORS:
+  /* Lines 314-319 omitted */
+
+MARKET PULSE:
+  /* Lines 321-324 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 326-332 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 334-337 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 362-579 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Indore, Madhya Pradesh
+--------------------------------------------------------------------------------
+District ID: DT_IND
+Population: 3,935,242
+Literacy Rate: 77.57%
+Predicted Job Openings: 3,236
+Confidence Score: 85.1%
+Last Updated: 2026-05-02T17:59:24.406018
+
+JOB CATEGORIES:
+  /* Lines 593-597 omitted */
+
+LEADING INDICATORS:
+  /* Lines 599-604 omitted */
+
+MARKET PULSE:
+  /* Lines 606-609 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 611-617 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 619-622 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 647-864 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Mumbai, Maharashtra
+--------------------------------------------------------------------------------
+District ID: DT_MUM
+Population: 1,035,689
+Literacy Rate: 76.11%
+Predicted Job Openings: 6,381
+Confidence Score: 71.4%
+Last Updated: 2026-05-02T17:59:24.406618
+
+JOB CATEGORIES:
+  /* Lines 878-882 omitted */
+
+LEADING INDICATORS:
+  /* Lines 884-889 omitted */
+
+MARKET PULSE:
+  /* Lines 891-894 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 896-902 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 904-907 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 932-1149 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Delhi, Delhi
+--------------------------------------------------------------------------------
+District ID: DT_DEL
+Population: 5,943,818
+Literacy Rate: 78.78%
+Predicted Job Openings: 5,837
+Confidence Score: 79.1%
+Last Updated: 2026-05-02T17:59:24.407162
+
+JOB CATEGORIES:
+  /* Lines 1163-1167 omitted */
+
+LEADING INDICATORS:
+  /* Lines 1169-1174 omitted */
+
+MARKET PULSE:
+  /* Lines 1176-1179 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 1181-1187 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 1189-1192 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 1217-1434 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Hyderabad, Telangana
+--------------------------------------------------------------------------------
+District ID: DT_HYD
+Population: 2,001,649
+Literacy Rate: 73.57%
+Predicted Job Openings: 7,180
+Confidence Score: 89.3%
+Last Updated: 2026-05-02T17:59:24.407754
+
+JOB CATEGORIES:
+  /* Lines 1448-1452 omitted */
+
+LEADING INDICATORS:
+  /* Lines 1454-1459 omitted */
+
+MARKET PULSE:
+  /* Lines 1461-1464 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 1466-1472 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 1474-1477 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 1502-1719 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Chennai, Tamil Nadu
+--------------------------------------------------------------------------------
+District ID: DT_CHE
+Population: 9,460,916
+Literacy Rate: 70.72%
+Predicted Job Openings: 9,671
+Confidence Score: 78.1%
+Last Updated: 2026-05-02T17:59:24.408315
+
+JOB CATEGORIES:
+  /* Lines 1733-1737 omitted */
+
+LEADING INDICATORS:
+  /* Lines 1739-1744 omitted */
+
+MARKET PULSE:
+  /* Lines 1746-1749 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 1751-1757 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 1759-1762 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 1787-2004 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Pune, Maharashtra
+--------------------------------------------------------------------------------
+District ID: DT_PUN
+Population: 6,309,509
+Literacy Rate: 74.64%
+Predicted Job Openings: 4,084
+Confidence Score: 87.1%
+Last Updated: 2026-05-02T17:59:24.408776
+
+JOB CATEGORIES:
+  /* Lines 2018-2022 omitted */
+
+LEADING INDICATORS:
+  /* Lines 2024-2029 omitted */
+
+MARKET PULSE:
+  /* Lines 2031-2034 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 2036-2042 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 2044-2047 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 2072-2289 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Ahmedabad, Gujarat
+--------------------------------------------------------------------------------
+District ID: DT_AHM
+Population: 4,505,867
+Literacy Rate: 70.94%
+Predicted Job Openings: 7,669
+Confidence Score: 80.6%
+Last Updated: 2026-05-02T17:59:24.409253
+
+JOB CATEGORIES:
+  /* Lines 2303-2307 omitted */
+
+LEADING INDICATORS:
+  /* Lines 2309-2314 omitted */
+
+MARKET PULSE:
+  /* Lines 2316-2319 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 2321-2327 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 2329-2332 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 2357-2574 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Jaipur, Rajasthan
+--------------------------------------------------------------------------------
+District ID: DT_JAI
+Population: 1,475,719
+Literacy Rate: 68.78%
+Predicted Job Openings: 5,180
+Confidence Score: 87.0%
+Last Updated: 2026-05-02T17:59:24.409697
+
+JOB CATEGORIES:
+  /* Lines 2588-2592 omitted */
+
+LEADING INDICATORS:
+  /* Lines 2594-2599 omitted */
+
+MARKET PULSE:
+  /* Lines 2601-2604 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 2606-2612 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 2614-2617 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 2642-2859 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Lucknow, Uttar Pradesh
+--------------------------------------------------------------------------------
+District ID: DT_LUC
+Population: 9,697,144
+Literacy Rate: 80.67%
+Predicted Job Openings: 8,483
+Confidence Score: 81.6%
+Last Updated: 2026-05-02T17:59:24.410411
+
+JOB CATEGORIES:
+  /* Lines 2873-2875 omitted */
+
+LEADING INDICATORS:
+  /* Lines 2877-2882 omitted */
+
+MARKET PULSE:
+  /* Lines 2884-2887 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 2889-2895 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 2897-2900 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 2925-3134 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Chandigarh, Chandigarh
+--------------------------------------------------------------------------------
+District ID: DT_CHA
+Population: 5,499,560
+Literacy Rate: 69.93%
+Predicted Job Openings: 2,214
+Confidence Score: 74.8%
+Last Updated: 2026-05-02T17:59:24.410926
+
+JOB CATEGORIES:
+  /* Lines 3148-3150 omitted */
+
+LEADING INDICATORS:
+  /* Lines 3152-3157 omitted */
+
+MARKET PULSE:
+  /* Lines 3159-3162 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 3164-3170 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 3172-3175 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 3200-3409 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Kochi, Kerala
+--------------------------------------------------------------------------------
+District ID: DT_KOC
+Population: 7,306,835
+Literacy Rate: 69.85%
+Predicted Job Openings: 6,568
+Confidence Score: 82.0%
+Last Updated: 2026-05-02T17:59:24.411399
+
+JOB CATEGORIES:
+  /* Lines 3423-3425 omitted */
+
+LEADING INDICATORS:
+  /* Lines 3427-3432 omitted */
+
+MARKET PULSE:
+  /* Lines 3434-3437 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 3439-3445 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 3447-3450 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 3475-3684 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Kolkata, West Bengal
+--------------------------------------------------------------------------------
+District ID: DT_KOL
+Population: 6,363,960
+Literacy Rate: 68.09%
+Predicted Job Openings: 4,861
+Confidence Score: 74.7%
+Last Updated: 2026-05-02T17:59:24.411852
+
+JOB CATEGORIES:
+  /* Lines 3698-3700 omitted */
+
+LEADING INDICATORS:
+  /* Lines 3702-3707 omitted */
+
+MARKET PULSE:
+  /* Lines 3709-3712 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 3714-3720 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 3722-3725 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 3750-3959 omitted */}
+
+--------------------------------------------------------------------------------
+
+CITY PROFILE: Surat, Gujarat
+--------------------------------------------------------------------------------
+Population: 8,609,767
+Literacy Rate: 67.06%
+Predicted Job Openings: 9,475
+Confidence Score: 89.8%
+Last Updated: 2026-05-02T17:59:24.412318
+
+JOB CATEGORIES:
+  /* Lines 3973-3975 omitted */
+
+LEADING INDICATORS:
+  /* Lines 3977-3982 omitted */
+
+MARKET PULSE:
+  /* Lines 3984-3987 omitted */
+
+EMPLOYMENT TRENDS (Past 6 Months):
+  /* Lines 3989-3995 omitted */
+
+FORECAST (Next 3 Months):
+  /* Lines 3997-4000 omitted */
+
+NEWS HEADLINES:
+JSON FORMAT:
+{/* Lines 4025-4234 omitted */}
+
+--- (truncated) ---
